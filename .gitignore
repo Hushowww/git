@@ -1,5 +1,3 @@
-# build artifacts
+.env
+node_modules/
 *.exe
-*.o
-*.obj
-*.out
